@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\bin\Debug\net8.0\StonesOnTheTable.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\bin\Debug\net8.0\StonesOnTheTable.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\bin\Debug\net8.0\StonesOnTheTable.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\bin\Debug\net8.0\StonesOnTheTable.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\bin\Debug\net8.0\StonesOnTheTable.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\StonesOnTheTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\StonesOnTheTable.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\StonesOnTheTable.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\StonesOnTheTable.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\StonesOnTheTable.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\refint\StonesOnTheTable.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\StonesOnTheTable.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\StonesOnTheTable.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\StonesOnTheTable\StonesOnTheTable\obj\Debug\net8.0\ref\StonesOnTheTable.dll
